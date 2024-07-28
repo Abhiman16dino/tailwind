@@ -19,3 +19,9 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - capatalize
     - truncate
     - break word
+5. Sizes and Spaces
+    - Padding
+    - margin
+    - negative spacing margin
+    - space in between
+    - extend with config

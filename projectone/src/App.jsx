@@ -13,7 +13,7 @@ function App() {
         </h1> */}
 
 
-        <h1 className="text-3xl underline">Header 1</h1>
+        {/* <h1 className="text-3xl underline">Header 1</h1>
         <h1 className="text-2xl">Header 2</h1>
         <h1 className="text-xl lowercase">Header 3</h1>
         <h1 className="text-base">Header 4</h1>
@@ -22,7 +22,15 @@ function App() {
 
         <h1 className="text-african">Header 1</h1>
 
-        <p className="truncate">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti itaque eaque velit dolores voluptates rerum soluta autem delectus, quo recusandae totam minima facilis. Doloribus aspernatur voluptatibus ut nulla animi perspiciatis?</p>
+        <p className="truncate">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti itaque eaque velit dolores voluptates rerum soluta autem delectus, quo recusandae totam minima facilis. Doloribus aspernatur voluptatibus ut nulla animi perspiciatis?</p> */}
+
+          <h1 className="text-white bg-orange-600 sm:pl-10 lg:pt-10 truncate m-1 p-2">Hello World!</h1>
+          <div className="flex space-x-1">
+            <div className="w-1/2 h-screen bg-black"></div>
+            <div className="w-1/2 h-screen bg-purple-800"></div>
+          </div>
+          <div className="w-12 h-12 m-10 bg-black"></div>
+          <div className="w-12 h-12 m-10 bg-purple-800"></div>
 
     </div>
   )
