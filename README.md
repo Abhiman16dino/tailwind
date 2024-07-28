@@ -11,3 +11,11 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
 3. customizing index.css
     - adding custom css @layer
     - adding custom css with tailwind class @apply
+4. Typography
+    - adding different text sizes
+    - customizing text size with cofig.js
+    - Importing custom font
+    - Decorator
+    - capatalize
+    - truncate
+    - break word

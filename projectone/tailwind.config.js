@@ -8,6 +8,9 @@ export default {
     extend: {
       colors: {
         vuejs: '#42b883',
+      },
+      fontSize: {
+        african: '100px'
       }
     },
   },

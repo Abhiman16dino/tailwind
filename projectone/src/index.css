@@ -1,10 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&display=swap');
 
 @layer base {
   html {
     /* background-color: purple; */
-    @apply bg-gray-400;
+    /* @apply bg-gray-400; */
+
+    font-family: 'tiro-devanagari-hindi-regular';
   }
 }
