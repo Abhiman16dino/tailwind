@@ -24,13 +24,22 @@ function App() {
 
         <p className="truncate">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti itaque eaque velit dolores voluptates rerum soluta autem delectus, quo recusandae totam minima facilis. Doloribus aspernatur voluptatibus ut nulla animi perspiciatis?</p> */}
 
-          <h1 className="text-white bg-orange-600 sm:pl-10 lg:pt-10 truncate m-1 p-2">Hello World!</h1>
+          {/* <h1 className="text-white bg-orange-600 sm:pl-10 lg:pt-10 truncate m-1 p-2">Hello World!</h1>
           <div className="flex space-x-1">
             <div className="w-1/2 h-screen bg-black"></div>
             <div className="w-1/2 h-screen bg-purple-800"></div>
           </div>
           <div className="w-12 h-12 m-10 bg-black"></div>
-          <div className="w-12 h-12 m-10 bg-purple-800"></div>
+          <div className="w-12 h-12 m-10 bg-purple-800"></div> */}
+
+          <div>
+            <h1 className="bg-red-400 text-white justify-center">Header</h1>
+            <div className="flex flex-col sm:flex-col lg:flex-row space-x-1 mx-0 ">
+              <h1 className="bg-blue-600 text-white basis-2/6">Sidebar</h1>
+              <h1 className="bg-slate-500 text-white grow basis-3/6">Main Content</h1>
+              <h1 className="bg-slate-500 text-white basis-1/6">Ads</h1>
+            </div>
+          </div>
 
     </div>
   )
