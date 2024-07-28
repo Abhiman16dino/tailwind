@@ -33,7 +33,7 @@ function App() {
           <div className="w-12 h-12 m-10 bg-purple-800"></div> */}
 
           <div>
-            <h1 className="bg-red-400 text-white justify-center">Header</h1>
+            <h1 className="bg-red-400 text-white">Header</h1>
             <div className="flex flex-col sm:flex-col lg:flex-row space-x-1 mx-0 ">
               <h1 className="bg-blue-600 text-white basis-2/6">Sidebar</h1>
               <h1 className="bg-slate-500 text-white grow basis-3/6">Main Content</h1>

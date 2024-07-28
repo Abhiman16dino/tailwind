@@ -25,3 +25,9 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - negative spacing margin
     - space in between
     - extend with config
+6. Flex
+    - flex groups
+    - basis
+    - wrap
+    - justify
+    - items : align child
