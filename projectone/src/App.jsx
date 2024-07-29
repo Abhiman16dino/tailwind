@@ -32,13 +32,29 @@ function App() {
           <div className="w-12 h-12 m-10 bg-black"></div>
           <div className="w-12 h-12 m-10 bg-purple-800"></div> */}
 
-          <div>
+          {/* <div>
             <h1 className="bg-red-400 text-white">Header</h1>
             <div className="flex flex-col sm:flex-col lg:flex-row space-x-1 mx-0 ">
               <h1 className="bg-blue-600 text-white basis-2/6">Sidebar</h1>
               <h1 className="bg-slate-500 text-white grow basis-3/6">Main Content</h1>
               <h1 className="bg-slate-500 text-white basis-1/6">Ads</h1>
             </div>
+          </div> */}
+
+          {/* <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 m-1 gap-4">
+            <div className="bg-sky-500 p-6 rounded-lg col-start-2">First Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg lg:col-span-2">Second Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Third Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Fourth Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg col-end-3">Fifth Columns</div>
+          </div> */}
+
+          <div className="grid grid-flow-col grid-rows-2 gap-4">
+            <div className="bg-sky-500 p-6 rounded-lg">First Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Second Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Third Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Fourth Columns</div>
+            <div className="bg-sky-500 p-6 rounded-lg">Fifth Columns</div>
           </div>
 
     </div>

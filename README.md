@@ -31,3 +31,10 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - wrap
     - justify
     - items : align child
+7. Grid
+    - grid
+    - cols
+    - rows
+    - span
+    - auto
+    - gap
