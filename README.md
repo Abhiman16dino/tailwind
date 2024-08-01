@@ -38,3 +38,13 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - span
     - auto
     - gap
+8. Layout
+    - containers
+    - columns
+    - display: flex, block, float...
+    - relative absolute
+    - top right bottom left
+    - fixed : sticky element
+    - hidden
+    - z-index
+    - object
