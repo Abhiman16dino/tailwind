@@ -52,3 +52,8 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - Border
     - Divide
     - Ring
+10. Effect
+    - Shadow
+    - Opacity
+    - Filter : blur, brightness, contrast, hue, invert, saturate
+    - backdrop : adding filter over some part of image

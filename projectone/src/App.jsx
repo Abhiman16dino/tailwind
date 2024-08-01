@@ -70,12 +70,22 @@ function App() {
             </div>
             </div> */}
 
-            <header className="border-b border-l-8 border-l-red-700 px-4 focus:ring-4 focus:ring-gray-500/20 focus:ring-offset-1" >Header</header>
+            {/* <header className="border-b border-l-8 border-l-red-700 px-4 focus:ring-4 focus:ring-gray-500/20 focus:ring-offset-1" >Header</header>
             <div className="divide-y divide-red-500 m-2">
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur incidunt facilis earum assumenda, fugit illo iste porro, quo, amet eligendi quisquam illum. Aspernatur aut minima velit ab. Ab, harum qui?</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab molestias doloribus at libero accusantium voluptas facilis asperiores nihil sed dolor numquam animi enim ducimus, optio eum illum, sequi quas?</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt recusandae nesciunt quidem unde numquam explicabo eligendi beatae provident quibusdam. Itaque tempora porro optio quia. Earum fuga vel possimus at cupiditate.</p>
-            </div>
+            </div> */}
+
+            {/* <div className="w-32 h-32 m-auto lg:shadow-2xl rounded-full md:shadow-inner"></div> */}
+
+            <h1 className="blur hover:blur-0 hue-rotate-30">Hello</h1>
+            <h1 className="blur hover:blur-0">this</h1>
+            <h1 className="blur hover:blur-0">is</h1>
+            <h1 className="blur hover:blur-0">an</h1>
+            <h1 className="blur hover:blur-0">Example</h1>
+            <h1 className="blur hover:blur-0">Blur</h1>
+
 
 
     </div>
