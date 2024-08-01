@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <div>
+    <div className="h-screen">
       {/* <h1 className='text-yellow-400 sm:text-vuejs md:text-gray-100 lg:text-red-500 bg-green-100 border-4 border-green-950'>
         Hello World!
         </h1>
@@ -65,10 +65,17 @@ function App() {
           </div> */}
 
             {/* <div className="container h-screen"> */}
-            <div className="w-96 h-96 rounded-lg bg-red-700 m-auto relative">
+            {/* <div className="w-96 h-96 rounded-lg bg-red-700 m-auto relative">
               <div className="w-32 h-32 rounded-lg bg-green-400 absolute -left-2"></div>
             </div>
-            {/* </div> */}
+            </div> */}
+
+            <header className="border-b border-l-8 border-l-red-700 px-4 focus:ring-4 focus:ring-gray-500/20 focus:ring-offset-1" >Header</header>
+            <div className="divide-y divide-red-500 m-2">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur incidunt facilis earum assumenda, fugit illo iste porro, quo, amet eligendi quisquam illum. Aspernatur aut minima velit ab. Ab, harum qui?</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab molestias doloribus at libero accusantium voluptas facilis asperiores nihil sed dolor numquam animi enim ducimus, optio eum illum, sequi quas?</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt recusandae nesciunt quidem unde numquam explicabo eligendi beatae provident quibusdam. Itaque tempora porro optio quia. Earum fuga vel possimus at cupiditate.</p>
+            </div>
 
 
     </div>

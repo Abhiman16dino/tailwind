@@ -48,3 +48,7 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - hidden
     - z-index
     - object
+9. Border
+    - Border
+    - Divide
+    - Ring
