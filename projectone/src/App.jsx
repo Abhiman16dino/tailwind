@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <div className="h-screen">
+    <div className="h-screen w-screen">
       {/* <h1 className='text-yellow-400 sm:text-vuejs md:text-gray-100 lg:text-red-500 bg-green-100 border-4 border-green-950'>
         Hello World!
         </h1>
@@ -79,12 +79,22 @@ function App() {
 
             {/* <div className="w-32 h-32 m-auto lg:shadow-2xl rounded-full md:shadow-inner"></div> */}
 
-            <h1 className="blur hover:blur-0 hue-rotate-30">Hello</h1>
+            {/* <h1 className="blur hover:blur-0 hue-rotate-30">Hello</h1>
             <h1 className="blur hover:blur-0">this</h1>
             <h1 className="blur hover:blur-0">is</h1>
             <h1 className="blur hover:blur-0">an</h1>
             <h1 className="blur hover:blur-0">Example</h1>
-            <h1 className="blur hover:blur-0">Blur</h1>
+            <h1 className="blur hover:blur-0">Blur</h1> */}
+
+            {/* <button className="hover:scale-50 animate-pulse transition delay-100 bg-blue-700 text-white rounded-md p-2 m-auto hover:translate-y-2 hover:bg-white hover:text-blue-700">Click Me!</button> */}
+
+              <h1>Hello 1</h1>
+              <h1>Hello 2</h1>
+              <h1>Hello 3</h1>
+              <h1>Hello 4</h1>
+              <h1>Hello 5</h1>
+              <h1>Hello 6</h1>
+              <h1>Hello 7</h1>
 
 
 

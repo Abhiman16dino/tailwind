@@ -9,5 +9,11 @@
     /* @apply bg-gray-400; */
 
     font-family: 'tiro-devanagari-hindi-regular';
+    color: red;
+    background-color: black;
+  }
+
+  h1 {
+    @apply mb-2 text-3xl font-bold;
   }
 }

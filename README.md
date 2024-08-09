@@ -57,3 +57,17 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - Opacity
     - Filter : blur, brightness, contrast, hue, invert, saturate
     - backdrop : adding filter over some part of image
+11. Animation
+    - Translate
+    - Transition
+    - delay : after what time animation happens
+    - duration : how long the animation should take to run
+    - animation : spin, ping, pulse
+    - scale
+    - rotate
+    - transeform origin
+    - skew
+12. Design System
+    - adding a common css for a particular id,class,..
+    - layer base
+    - apply
