@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <div className="h-screen w-screen">
+    <div className="h-screen w-screen dark">
       {/* <h1 className='text-yellow-400 sm:text-vuejs md:text-gray-100 lg:text-red-500 bg-green-100 border-4 border-green-950'>
         Hello World!
         </h1>

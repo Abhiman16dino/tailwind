@@ -71,3 +71,4 @@ This repo will ocntail all the projects related to tailwind css. Below are the t
     - adding a common css for a particular id,class,..
     - layer base
     - apply
+13. DarkMode

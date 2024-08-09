@@ -10,10 +10,11 @@
 
     font-family: 'tiro-devanagari-hindi-regular';
     color: red;
-    background-color: black;
+    background-color: yellow;
+
   }
 
   h1 {
-    @apply mb-2 text-3xl font-bold;
+    @apply mb-2 text-3xl font-bold dark:text-black;
   }
 }
